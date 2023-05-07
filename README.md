@@ -15,6 +15,7 @@ class HumanBeing():
         nationality : Final[str] = 'Ethiopian'
 		age = 21
         hobbies = ['Swimming','Cooking','Reading']
+		
 		return langs, nationality,location,age, hoobies
 	
 	@staticmethod
