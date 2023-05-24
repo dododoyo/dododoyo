@@ -36,17 +36,18 @@ class HumanBeing():
 ```
 
 
+<!--
   <img align = "center" style="width:100%" src="https://github-readme-stats.vercel.app/api?username=dododoyo&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
 
   <br>
   
   <img align = "center" style="width:100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dododoyo&layout=compact&langs_count=10&theme=chartreuse-dark"/>
 
-  <br>
+-->
 
   <img align="center"  style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dododoyo&&theme=chartreuse-dark" alt="github activity"/>
 
-  <br>
+
 
   <img align = "center" style="width:100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=dododoyo&theme=github-compact" alt="github activity"/>
 
