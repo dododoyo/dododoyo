@@ -2,7 +2,7 @@
 class HumanBeing():
 	@staticmethod
 	def contact() -> tuple:
-        name = "Dolphin Mulugeta"
+            name = "Dolphin Mulugeta"
 	    telegram = "t.me/dododoyo"
 	    gmail = "dolphinmulugeta88@gmail.com"
 	    
@@ -10,29 +10,28 @@ class HumanBeing():
 	
 	@staticmethod
 	def life() -> tuple:
-		langs = ['Amharic', 'English']
-        location = 'Addis Ababa, Ethiopia'
-        nationality : Final[str] = 'Ethiopian'
-		age = 21
-        hobbies = ['Swimming','Cooking','Reading']
-		
+	    langs = ['Amharic', 'English']
+            location = 'Addis Ababa, Ethiopia'
+            nationality : Final[str] = 'Ethiopian'
+	    age = 21
+            hobbies = ['Swimming','Cooking','Reading']
 		return langs, nationality,location,age, hoobies
 	
 	@staticmethod
 	def skills() -> tuple:
-		coding = {
-			'expert':   ['python','java'],
-			'intermediate': ['html', 'css', 'js','c++'],
-			'learning': ['js','css' ]
-		        }
+	    coding = {
+		      'expert':   ['python','java'],
+		      'intermediate': ['html', 'css', 'js','c++'],
+		      'learning': ['js','css' ]
+		      }
 
-		expertise  = ['web/app','telegrambot',
-                  'SPICE','CP'
-                  'git','github']
+	    expertise  = ['web/app','telegrambot',
+		          'SPICE','CP'
+		          'git','github']
 
-		environment = ['vscode']
-		
-		return langs, expertise, environnement
+            environment = ['vscode']
+
+     	    return langs, expertise, environnement
 
 ```
 
