@@ -2,7 +2,7 @@
 class HumanBeing():
 	@staticmethod
 	def contact() -> tuple:
-            name = "Dolphin Mulugeta"
+        name = "Dolphin Mulugeta"
 	    telegram = "t.me/dododoyo"
 	    gmail = "dolphinmulugeta88@gmail.com"
 	    
@@ -11,25 +11,25 @@ class HumanBeing():
 	@staticmethod
 	def life() -> tuple:
 	    langs = ['Amharic', 'English']
-            location = 'Addis Ababa, Ethiopia'
-            nationality : Final[str] = 'Ethiopian'
+        location = 'Addis Ababa, Ethiopia'
+        nationality : Final[str] = 'Ethiopian'
 	    age = 21
-            hobbies = ['Swimming','Cooking','Reading']
+        hobbies = ['Swimming','Cooking','Reading']
 		return langs, nationality,location,age, hoobies
 	
 	@staticmethod
 	def skills() -> tuple:
 	    coding = {
-		      'expert':   ['python','java'],
-		      'intermediate': ['html', 'css', 'js','c++'],
-		      'learning': ['js','css' ]
+		      'expert':   ['python','java','js'],
+		      'intermediate': ['html', 'css' ,'c++'],
+		      'learning': ['js','c++']
 		      }
 
 	    expertise  = ['web/app','telegrambot',
 		          'SPICE','CP'
 		          'git','github']
 
-            environment = ['vscode']
+      	environment = ['vscode']
 
      	    return langs, expertise, environnement
 
@@ -40,7 +40,7 @@ class HumanBeing():
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E346.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jQuery-%23ffffff.svg?style=for-the-badge&logo=jquery&logoColor=black) 
@@ -49,6 +49,8 @@ class HumanBeing():
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%23ad2d.svg?style=for-the-badge&logo=react&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%f1e00.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![POSTMAN](https://img.shields.io/badge/postman-%23E34F26.svg?style=for-the-badge&logo=postman&logoColor=white) 
+
 
 # 🔗 Connect
 
