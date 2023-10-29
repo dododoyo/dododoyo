@@ -25,15 +25,15 @@ class HumanBeing():
 		      'learning': ['js','c++']
 		      }
 
-	    expertise  = ['web/app','telegrambot',
-		          'SPICE','CP'
+	    expertise  = ['web-development','telegram-bot-development',
+		          'SPICE','CP',
 		          'git','github']
 
-      	environment = ['vscode']
+      	environment = ['vscode','postman']
 
      	    return langs, expertise, environnement
-
 ```
+
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%23E05C9C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -52,15 +52,12 @@ class HumanBeing():
 ![POSTMAN](https://img.shields.io/badge/postman-%23E34F26.svg?style=for-the-badge&logo=postman&logoColor=white) 
 
 
-
-
-
 # 🔗 Connect
 
- <a href="https://twitter.com/ra_muel" ><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
+ <a href="https://twitter.com/ra_muel" ><img src="https://img.shields.io/badge/Twitter-1DA6F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
   <a href="https://t.me/dododoyo"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
-  <a href="https://www.linkedin.com/in/dolphin-mulugeta-52740b1b8/"><img src="https://img.shields.io/badge/Linkedin-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href = "mailto:dolphinmulugeta88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-2CA5E0?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/dolphin-mulugeta-52740b1b8/"><img src="https://img.shields.io/badge/Linkedin-2CA8E0?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href = "mailto:dolphinmulugeta88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-CCAE0?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <!-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  -->
 <!-- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  -->
@@ -80,6 +77,8 @@ class HumanBeing():
 <!-- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  -->
 <!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  -->
 <!-- ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) -->
+
+### [Typing Skills](https://www.keybr.com/profile/82z62l4)
 
 
 # 📈  Github Status
