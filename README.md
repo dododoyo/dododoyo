@@ -43,6 +43,7 @@ class HumanBeing():
 ![HTML5](https://img.shields.io/badge/html5-%23E346.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Tailwind](https://img.shields.io/badge/Tailwind-%23563D7C.svg?style=for-the-badge&logo=tailwind&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jQuery-%23ffffff.svg?style=for-the-badge&logo=jquery&logoColor=black) 
 ![MongoDB](https://img.shields.io/badge/mongodb-%f1e00.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
@@ -83,13 +84,17 @@ class HumanBeing():
 
 # 📈  Github Status
 
-<img styles="width:100 !important;" src="https://github-readme-stats.vercel.app/api?username=dododoyo&show_icons=true&theme=chartreuse-dark"/>
+<!-- <img styles="width:50% !important;" src="https://github-readme-stats.vercel.app/api?username=dododoyo&show_icons=true&theme=chartreuse-dark"/>
 
-<img styles="width:100%;align:center" src="https://github-readme-streak-stats.herokuapp.com/?user=dododoyo&theme=chartreuse-dark"/>
+<img styles="align:center" src="https://github-readme-streak-stats.herokuapp.com/?user=dododoyo&theme=chartreuse-dark"/>
 
-<img styles="width:100 !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dododoyo&layout=compact&langs_count=10&theme=chartreuse-dark"/>
+<img styles="width:100 !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dododoyo&layout=compact&langs_count=10&theme=chartreuse-dark"/> -->
 
+![GitHub Stats1](https://gh-readme-profile.vercel.app/api?username=dododoyo&theme=transparent) 
 
+![GitHub Stats2](https://github-readme-streak-stats.herokuapp.com/?user=dododoyo&theme=chartreuse-dark)
+
+![GitHub Stats3](https://github-readme-stats.vercel.app/api/top-langs/?username=dododoyo&layout=compact&langs_count=10&theme=chartreuse-dark)
 
 <!-- <img styles="width:100%;" src="https://github-readme-stats.vercel.app/api?username=dododoyo&show_icons=true&theme=chartreuse-dark"> -->
 
