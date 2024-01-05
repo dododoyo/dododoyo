@@ -91,7 +91,7 @@ class HumanBeing():
 <img styles="width:100 !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dododoyo&layout=compact&langs_count=10&theme=chartreuse-dark"/> -->
 [![committers.top badge](https://user-badge.committers.top/ethiopia/dododoyo.svg)](https://user-badge.committers.top/ethiopia/dododoyo)
 
-![GitHub Stats1](https://gh-readme-profile.vercel.app/api?username=dododoyo&theme=transparent) 
+![GitHub Stats1](https://gh-readme-profile.vercel.app/api?username=dododoyo&theme=chartreuse-dark) 
 
 ![GitHub Stats2](https://github-readme-streak-stats.herokuapp.com/?user=dododoyo&theme=chartreuse-dark)
 
