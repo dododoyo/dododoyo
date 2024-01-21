@@ -80,7 +80,7 @@ class HumanBeing():
 <!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  -->
 <!-- ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) -->
 
-### [Typing Skills](https://www.keybr.com/profile/82z62l4)
+### [Typing Skills](https://www.keybr.com/profile/82z62l4)     [![committers.top badge](https://user-badge.committers.top/ethiopia/dododoyo.svg)](https://user-badge.committers.top/ethiopia/dododoyo)
 
 
 # 📈  Github Status
@@ -90,7 +90,6 @@ class HumanBeing():
 <img styles="align:center" src="https://github-readme-streak-stats.herokuapp.com/?user=dododoyo&theme=chartreuse-dark"/>
 
 <img styles="width:100 !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dododoyo&layout=compact&langs_count=10&theme=chartreuse-dark"/> -->
-[![committers.top badge](https://user-badge.committers.top/ethiopia/dododoyo.svg)](https://user-badge.committers.top/ethiopia/dododoyo)
 
 ![GitHub Stats1](https://gh-readme-profile.vercel.app/api?username=dododoyo&theme=highcontrast) 
 
