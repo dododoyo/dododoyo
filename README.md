@@ -2,20 +2,21 @@
 class HumanBeing():
 	@staticmethod
 	def contact() -> tuple:
-        name = "Dolphin Mulugeta"
+            name = "Dolphin Mulugeta"
 	    telegram = "t.me/dododoyo"
 	    gmail = "dolphinmulugeta88@gmail.com"
-	    
+
 	    return name, telegram, gmail
 	
 	@staticmethod
 	def life() -> tuple:
 	    langs = ['Amharic', 'English']
-        location = 'Addis Ababa, Ethiopia'
-        nationality : Final[str] = 'Ethiopian'
-	    age = 21
-        hobbies = ['Swimming','Cooking','Reading']
-		return langs, nationality,location,age, hoobies
+	    location = 'Addis Ababa, Ethiopia'
+            nationality : Final[str] = 'Ethiopian'
+	    age = 22
+            hobbies = ['Swimming','Cooking','Reading']
+
+            return langs, nationality,location,age, hoobies
 	
 	@staticmethod
 	def skills() -> tuple:
@@ -29,7 +30,7 @@ class HumanBeing():
 		          'SPICE','CP',
 		          'git','github']
 
-      	environment = ['vscode','postman']
+      	    environment = ['vscode','postman']
 
      	    return langs, expertise, environnement
 ```
