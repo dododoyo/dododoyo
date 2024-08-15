@@ -20,16 +20,17 @@ class HumanBeing():
 	
 	@staticmethod
 	def skills() -> tuple:
-	    coding = {
-		      'expert':   ['python','java','js'],
-		      'intermediate': ['html', 'css' ,'c++'],
-		      'learning': ['js','c++']
+	    langs = {
+		      'expert':   ['python','java','js','ts','go','html','css'],
+		      'intermediate': ['c#'],
+		      'learning': ['c++','rust']
 		      }
 
-	    expertise  = ['web-development','telegram-bot-development',
-		          'SPICE','CP',
-		          'git','github']
-      	    environment = ['vscode','postman']
+	    expertise  = ['Web-Development','Telegram-Bot-Development',
+		          'Game-Development','Competitive Programming',
+		          'MircoComputers and Embedded Systems', 'Database Management']
+      	    environment = ['vscode','postman','spice','proteus','git','github']
+
      	    return langs, expertise, environnement
 ```
 
