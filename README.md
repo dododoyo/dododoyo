@@ -41,12 +41,12 @@ class HumanBeing():
 
 <div style="width: 100%; padding: 0 1rem;">
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,matlab,cs,python,javascript,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,matlab,cs,python,javascript,typescript,go,html,css)](https://skillicons.dev)
 </div>
 
 <div style="width: 100%; padding: 0 1rem;">
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,jquery,mongodb,express,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,jquery,mongodb,express,react,nodejs,gin,nextjs,rtk)](https://skillicons.dev)
 </div>
 </div>
 
