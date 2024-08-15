@@ -29,6 +29,7 @@ class HumanBeing():
 	    expertise  = ['Web-Development','Telegram-Bot-Development',
 		          'Game-Development','Competitive Programming',
 		          'MircoComputers and Embedded Systems', 'Database Management']
+
       	    environment = ['vscode','postman','spice','proteus','git','github']
 
      	    return langs, expertise, environnement
