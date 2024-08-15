@@ -46,7 +46,7 @@ class HumanBeing():
 
 <div style="width: 100%; padding: 0 1rem;">
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,jquery,mongodb,express,react,nodejs,gin,nextjs,rtk)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,nextjs,express,react,nodejs,bootstrap,tailwind,jquery)](https://skillicons.dev)
 </div>
 </div>
 
@@ -56,7 +56,7 @@ class HumanBeing():
 <summary style="font-size: larger; font-weight: bold;" >Comfortable with ✅</summary>
 <div style="margin: 1rem 0; display: flex; align-items: center">
 
-[![My Skills](https://skillicons.dev/icons?i=git,figma,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,figma,vscode,postman,github,vim)](https://skillicons.dev)
 
 </div>
 
@@ -66,7 +66,7 @@ class HumanBeing():
 <summary style="font-size: larger; font-weight: bold;" >Currently learning 📚</summary>
 <div style="margin: 1rem 0; display: flex; align-items: center">
 
-[![My Skills](https://skillicons.dev/icons?i=unity,next,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,next,go,rust)](https://skillicons.dev)
 
 </div>
 </details>
@@ -89,7 +89,7 @@ class HumanBeing():
 <details>
 <summary style="font-size: larger; font-weight: bold;" >Connect 🔗</summary>
 <div style="margin: 1rem 0.5rem; display: flex; align-items: center; flex-direction: row;">
- <a style="margin: 1rem 0.5rem;"href="https://twitter.com/ra_muel" ><img src="https://img.shields.io/badge/Twitter-1DA6F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
+ <a style="margin: 1rem 0.5rem;"href="https://twitter.com/ra_muel" ><img src="https://img.shields.io/badge/Twitter-1DA6F2?style=for-the-badge&logo=x&logoColor=white"></a> 
   <a style="margin: 1rem 0.5rem;" href="https://t.me/dododoyo"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
   <a style="margin: 1rem 0.5rem;" href="https://www.linkedin.com/in/dolphin-mulugeta-52740b1b8/"><img src="https://img.shields.io/badge/Linkedin-2CA8E0?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a style="margin: 1rem 0.5rem;" href = "mailto:dolphinmulugeta88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-CCAE0?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
