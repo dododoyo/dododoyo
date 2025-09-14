@@ -13,31 +13,31 @@ class HumanBeing():
 	    langs = ['Amharic', 'English']
 	    location = 'Addis Ababa, Ethiopia'
             nationality : Final[str] = 'Ethiopian'
-	    age = 22
-            hobbies = ['Swimming','Cooking','Reading']
+	    age = 23
+            hobbies = ['Movies','Swimming','Cooking','Reading']
 
             return langs, nationality,location,age, hoobies
 
 	@staticmethod
 	def skills() -> tuple:
 	    langs = {
-		      'expert':   ['python','java','js','ts','go','html','css'],
+		      'expert':   ['python','java','js','ts','go'],
 		      'intermediate': ['c#'],
 		      'learning': ['c++','rust']
 		      }
 
 	    expertise  = ['Web-Development','Telegram-Bot-Development',
-		          'Game-Development','Competitive Programming',
+		          'Game-Development','Data Structures & Algorithms',
 		          'MircoComputers and Embedded Systems', 'Database Management']
 
-      	    environment = ['vscode','postman','spice','proteus','git','github']
+      	    environment = ['vscode','docker','spice','proteus','git','github']
 
      	    return langs, expertise, environnement
 ```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dododoyo&label=Profile%20views&color=0e75b6&style=flat" alt="dododoyo" /> </p>
 
-<details>
+
 <summary style="font-size: larger; font-weight: bold;">Languages and Skills 🌐</summary>
 <div style="margin: 1rem 0; display: flex; align-items: center; flex-wrap: wrap;">
 
@@ -49,14 +49,13 @@ class HumanBeing():
 
 <div style="width: 100%; padding: 0 1rem;">
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,nextjs,express,react,redux,webpack,nodejs,bootstrap,tailwind,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,nextjs,express,react,redux,webpack,nodejs,bootstrap,tailwind)](https://skillicons.dev)
 
 </div>
 </div>
 
-</details>
 
-<details>
+
 <summary style="font-size: larger; font-weight: bold;" >Comfortable with ✅</summary>
 <div style="margin: 1rem 0; display: flex; align-items: center">
 
@@ -64,36 +63,14 @@ class HumanBeing():
 
 </div>
 
-</details>
 
-<details>
 <summary style="font-size: larger; font-weight: bold;" >Currently learning 📚</summary>
 <div style="margin: 1rem 0; display: flex; align-items: center">
 
-[![My Skills](https://skillicons.dev/icons?i=unity,next,go,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,next,go,aws,gcp)](https://skillicons.dev)
 
 </div>
-</details>
 
-<details>
-<summary style="font-size: larger; font-weight: bold;" >GitHub Stats 📈</summary>
-<div style="margin: 1rem 0; display: flex; align-items: center; flex-direction: column;">
-
-![GitHub Stats1](https://gh-readme-profile.vercel.app/api?username=dododoyo&theme=highcontrast)
-
-![GitHub Stats2](https://github-readme-streak-stats.herokuapp.com/?user=dododoyo&theme=chartreuse-dark)
-
-![GitHub Stats3](https://github-readme-stats.vercel.app/api/top-langs/?username=dododoyo&layout=compact&langs_count=10&theme=chartreuse-dark)
-
-<!-- ### [Typing Skills](https://www.keybr.com/profile/82z62l4)      -->
-
-[![committers.top badge](https://user-badge.committers.top/ethiopia/dododoyo.svg)](https://user-badge.committers.top/ethiopia/dododoyo)
-
-</div>
-</details>
-
-<details>
-<summary style="font-size: larger; font-weight: bold;" >Connect 🔗</summary>
 
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
@@ -108,8 +85,24 @@ class HumanBeing():
 
 </p>
 
-</details>
 
+<details>
+<summary style="font-size: larger; font-weight: bold;" >GitHub Stats 📈</summary>
+<div style="margin: 1rem 0; display: flex; align-items: center; flex-direction: column;">
+
+
+![GitHub Stats1](https://gh-readme-profile.vercel.app/api?username=dododoyo&theme=highcontrast)
+
+![GitHub Stats2](https://github-readme-streak-stats.herokuapp.com/?user=dododoyo&theme=chartreuse-dark)
+
+![GitHub Stats3](https://github-readme-stats.vercel.app/api/top-langs/?username=dododoyo&layout=compact&langs_count=10&theme=chartreuse-dark)
+
+<!-- ### [Typing Skills](https://www.keybr.com/profile/82z62l4)      -->
+
+[![committers.top badge](https://user-badge.committers.top/ethiopia/dododoyo.svg)](https://user-badge.committers.top/ethiopia/dododoyo)
+
+</div>
+</details>
 <br/>
 
 ---
